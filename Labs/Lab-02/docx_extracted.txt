@@ -1,0 +1,21 @@
+--- PRE-TABLE PARAGRAPHS ---
+Introduction to Machine Learning
+Machine learning is a field of artificial intelligence that allows computers to learn patterns from data without being explicitly programmed for every single rule.
+This document gives a short and simple overview of the basic ideas behind machine learning models and how they are trained.
+Types of Learning
+Supervised learning uses labeled data where the correct answer is already known for every training example given to the model.
+Unsupervised learning
+Reinforcement learning trains an agent to take actions in an environment in order to maximize some notion of cumulative reward over time.
+Common Algorithms
+Some of the most common algorithms include linear regression, decision trees, random forests, and neural networks for various prediction tasks.
+
+Evaluation Metrics
+Accuracy, precision, recall, and F1 score are commonly used metrics to evaluate how well a classification model is performing on test data.
+Conclusion
+Machine learning continues to grow rapidly and is now used in many industries including healthcare, finance, and transportation around the world today.
+
+--- TABLE DATA ---
+Algorithm | Type | Use Case
+Linear Regression | Supervised | Price Prediction
+K-Means | Unsupervised | 
+Q-Learning | Reinforcement | Game Playing

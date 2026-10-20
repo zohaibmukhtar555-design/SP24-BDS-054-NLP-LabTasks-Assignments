@@ -1,0 +1,29 @@
+python programming basics
+python is a popular programming language used for data science web development and automation
+it was created by guido van rossum and released in
+many students learn python because it is easy to read and has simple syntax rules
+there are major versions currently in use today across many companies worldwide
+data structures overview
+lists tuples dictionaries and sets are the core built in data structures in python
+a list can store items or more without any real limit on its size at all
+dictionaries store key value pairs and are extremely useful for fast lookups in code
+working with files
+reading and writing files is a common task in python programs across many domains
+the open function is used with modes like read write and append for files
+it is good practice to close files after use or use the with statement instead of manual closing
+in many tutorials started recommending the with statement as the default approach
+introduction to libraries
+python has thousands of libraries available on pypi for almost every single task imaginable
+popular libraries include numpy pandas requests and matplotlib for various different purposes
+you can install any library using pip install followed by the library name in your terminal
+visit to search for over packages available for download right now
+python for data analysis
+python is widely used for data analysis because of powerful libraries like pandas and numpy
+analysts use python to clean data build models and create charts for business reports
+learning python well can take around months of consistent practice and daily coding
+many companies now require python skills for entry level data analyst job positions today
+conclusion and next steps
+this document covered basic python concepts including data structures and file handling
+students should continue practicing python by building small projects on their own time
+check for additional tutorials covering more advanced python topics
+good luck learning python and keep practicing every single day for the best possible results
